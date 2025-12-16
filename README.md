@@ -28,7 +28,7 @@ Large Language Models (LLMs) are computationally expensive to fine-tune using fu
 
 ## Customization
 
-The workflows can be extended or modified to:
+Download the notebook and the workflows can be extended or modified to:
 
 * Incorporate custom datasets
 * Tune LoRA hyperparameters such as rank, alpha, and target modules
